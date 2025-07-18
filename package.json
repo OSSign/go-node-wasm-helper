@@ -1,0 +1,29 @@
+{
+  "name": "@ossign/go-node-wasm",
+  "version": "1.1.1",
+  "description": "Various helper functions to allow communication between Go code and the Node.js WASM runtime",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSSign/go-node-wasm.git"
+  },
+  "keywords": [
+    "azuresigntool",
+    "ossign",
+    "signature"
+  ],
+  "author": "OSSign <ossign.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSSign/go-node-wasm/issues"
+  },
+  "homepage": "https://github.com/OSSign/go-node-wasm#readme",
+  "dependencies": {
+    "node-netstat": "^1.9.0"
+  },
+  "devDependencies": {
+  }
+}
